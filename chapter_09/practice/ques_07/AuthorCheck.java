@@ -1,6 +1,6 @@
 package chapter_09.practice.ques_07;
 
-class AuthorCheck {
+public class AuthorCheck {
     public static void main(String[] args) {
         java.util.Scanner scanner = new java.util.Scanner(System.in);
 
@@ -11,8 +11,6 @@ class AuthorCheck {
             System.out.println("一致します");
         } else {
             System.out.println("一致しません");
-
-            scanner.close();
         }
     }
 }
