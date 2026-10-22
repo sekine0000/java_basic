@@ -1,9 +1,7 @@
 package chapter_15.practice.ques_08;
 
 public class PriceMath {
-    public static int addPrice(500, 150) {
-
-    }
+    public static int addPrice(500, 150);
 
 }
 
